@@ -1,0 +1,11 @@
+.active {
+  color: green !important;
+}
+.container {
+  width: 700px;
+
+  display: flex;
+  border: 2px solid teal;
+  justify-content: space-between;
+  align-items: flex-start;
+}
